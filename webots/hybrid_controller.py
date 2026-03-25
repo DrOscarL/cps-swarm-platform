@@ -3,7 +3,7 @@ Hybrid ACO + Boredom Controller - VERSION 24 FIXED
 CIBERFÍSICO + MODELO ENERGÉTICO VIRTUAL
 
 Author: Oscar Loyola
-Universidad Autonoma de Chile
+Universidad de Las Américas - Chile
 2025
 """
 
