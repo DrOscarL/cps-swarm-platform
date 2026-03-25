@@ -191,21 +191,7 @@ Validated with 5 virtual agents + 5 NodeMCU physical nodes:
 
 ---
 
-## Citation
 
-If you use this platform in your research, please cite:
-
-```bibtex
-@article{loyola2025cps,
-  title   = {Low-Cost Cyber-Physical Experimentation Platform for Swarm Robotics Research},
-  author  = {Loyola-Valenzuela, Oscar and Breth{\'e}, Jean-Fran{\c{c}}ois and Sandoval, C{\'e}sar},
-  journal = {Revista Facultad de Ingenier{\'i}a, Universidad de Antioquia},
-  year    = {2025},
-  note    = {Under review}
-}
-```
-
----
 
 ## Authors
 
